@@ -1,7 +1,7 @@
 CoffeeFinder-XamarinDemo
 ========================
 
-This is the demo app I built during my presentation at [NoVA Mobile C# Dev Group on 3/12/2014](http://forums.xamarin.com/discussion/12518/march-12-northern-virginia-mobile-c-developers-group-first-meeting#latest)
+This is the demo app I built during my presentation at [NoVA Mobile C# Dev Group on 3/12/2014](http://forums.xamarin.com/discussion/12518/march-12-northern-virginia-mobile-c-developers-group-first-meeting)
 
 **Ed Snider** [@edsnider](http://www.twitter.com/edsnider) | [www.edsnider.net](http://www.edsnider.net) | [www.novamobiledev.org](http://www.novamobiledev.org)
 
