@@ -13,8 +13,8 @@ namespace CoffeeFinder.Core.Services
     {
         #region Foursquare API client props
 
-        private readonly string _CLIENT_ID = "MHZODVIJAWGPYYGJTWCO1ES1O0YNBDSSWZ2RYJGWNAJKBWZM";
-        private readonly string _CLIENT_SECRET = "YNGRL5K00CEWBYNMM4MVF0YEE2PZJTN5ZDWQ3TAA4NSVEZJB";
+        private readonly string _CLIENT_ID = "";
+        private readonly string _CLIENT_SECRET = "";
 
         #endregion
 
